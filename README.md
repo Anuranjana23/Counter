@@ -71,7 +71,8 @@ endmodule
 
 ## RTL Schematic:
 Up Counter:
-![image](https://github.com/Anuranjana23/Counter/assets/134050204/7b3682e8-0f71-42e7-93af-ffc3f1cc0983)
+![RTL](https://github.com/Anuranjana23/Counter/assets/134050204/39c1e987-2695-4546-99f0-ffb6d15d41de)
+
 Down Counter:
 ![image](https://github.com/Anuranjana23/Counter/assets/134050204/470c409a-5fd6-4dad-ab77-fec4bc0f13a2)
 
