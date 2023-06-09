@@ -70,18 +70,10 @@ endmodule
 ~~~
 
 ## RTL Schematic:
-Up Counter
-![RTL](https://github.com/Anuranjana23/Counter/assets/134050204/36654f1c-d126-4ae4-b71d-83b940161d7f)
-Down Counter
-![RTL](https://github.com/Anuranjana23/Counter/assets/134050204/a2361961-8551-45a1-9032-f01f22ec08b6)
 
 
 
 ## Timing Diagram:
-Up Counter
-![Timing Diagram](https://github.com/Anuranjana23/Counter/assets/134050204/925f1ef4-61a2-4f29-ac69-90f07a939777)
-Douwn Counter
-![Timing diagram](https://github.com/Anuranjana23/Counter/assets/134050204/c498bfca-0d29-47da-a7d1-7d17949cf5e8)
 
 ## Result:
 Thus the Synchronous UP and DOWN counters using T flipflops are implemented and the state tables are verified.
