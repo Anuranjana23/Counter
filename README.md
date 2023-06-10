@@ -71,8 +71,8 @@ endmodule
 
 ## RTL Schematic:
 Up Counter:
-Down Counter:
 
+Down Counter:
 
 
 
