@@ -67,19 +67,23 @@ q2=(~q1)^q2;
 q1=1^q1;
 end
 endmodule
-~~~
+```
 
 ## RTL Schematic:
 Up Counter:
+![RTL](https://github.com/Anuranjana23/Counter/assets/134050204/7864872d-1590-472d-bc13-e5f182929020)
 
 Down Counter:
+![RTL](https://github.com/Anuranjana23/Counter/assets/134050204/98ad4373-e76e-47a1-8dfa-4de902812879)
 
 
 
 ## Timing Diagram:
 Up Counter:
+![Timing Diagram](https://github.com/Anuranjana23/Counter/assets/134050204/1345329c-2344-4438-9552-d1f09465c308)
 
 Down Counter:
+![Timing diagram](https://github.com/Anuranjana23/Counter/assets/134050204/38e77c29-ea22-4fed-98b2-fa97e5bb89e8)
 
 
 ## Result:
