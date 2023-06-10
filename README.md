@@ -71,19 +71,15 @@ endmodule
 
 ## RTL Schematic:
 Up Counter:
-![RTL](https://github.com/Anuranjana23/Counter/assets/134050204/39c1e987-2695-4546-99f0-ffb6d15d41de)
-
 Down Counter:
-![image](https://github.com/Anuranjana23/Counter/assets/134050204/470c409a-5fd6-4dad-ab77-fec4bc0f13a2)
 
 
 
 
 ## Timing Diagram:
 Up Counter:
-![image](https://github.com/Anuranjana23/Counter/assets/134050204/3324734b-de71-4812-97a0-c0cee8fb6f54)
+
 Down Counter:
-![image](https://github.com/Anuranjana23/Counter/assets/134050204/79714533-cfe2-4400-9916-c7130fb1c31a)
 
 
 ## Result:
